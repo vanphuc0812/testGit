@@ -1,4 +1,4 @@
 echo off
 color 
 color
-color
+color 3
